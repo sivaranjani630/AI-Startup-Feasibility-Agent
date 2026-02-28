@@ -13,6 +13,7 @@ An autonomous AI-based decision intelligence system that evaluates startup feasi
 - Strategic Pivot Recommendations
 - 6-Month Failure Probability Simulation
 - Risk Heat Map Visualization
+- Efficient solution
 
 ## 🛠 TECH STACK
 - Python
