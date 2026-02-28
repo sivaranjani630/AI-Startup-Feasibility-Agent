@@ -1,9 +1,9 @@
-# 🚀 AI Startup Feasibility & Risk Intelligence Agent
+# AI STARTUP FEASIBILITY & RISK INTELLIGENCE AGENT
 
-## 📌 Overview
+## 📌 OVERVIEW
 An autonomous AI-based decision intelligence system that evaluates startup feasibility using multi-dimensional scoring, financial analysis, competitive risk assessment, and strategic recommendations.
 
-## 🎯 Features
+## 🎯 FEATURES
 - Market, Technical, Financial & Competition Scoring
 - Overall Feasibility Score (0–100)
 - Startup Stability Index
@@ -14,7 +14,7 @@ An autonomous AI-based decision intelligence system that evaluates startup feasi
 - 6-Month Failure Probability Simulation
 - Risk Heat Map Visualization
 
-## 🛠 Tech Stack
+## 🛠 TECH STACK
 - Python
 - Streamlit
 - Pandas
